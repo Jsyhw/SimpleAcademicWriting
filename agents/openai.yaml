@@ -1,0 +1,6 @@
+interface:
+  display_name: "专业写作规范"
+  short_description: "用核心主张、论证链与证据组织和审校学术及专业长文写作"
+  default_prompt: "使用 $professional-writing 规划、撰写或修订这份专业文稿。"
+policy:
+  allow_implicit_invocation: true
